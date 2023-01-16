@@ -9,7 +9,7 @@ npm install yarn
 
 ### Step-2: Install packages
 ```
-cd cs-5744-project-1/website
+cd CS5744-01-HokieRide-Design/website
 yarn install
 ```
 
