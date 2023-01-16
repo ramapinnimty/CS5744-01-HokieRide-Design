@@ -1,0 +1,11 @@
+{
+  "name": "p_01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "npm run build && gh-pages -d dist -b main"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,27 @@
+{
+  "docs": {
+    "Introduction": [
+      "introduction"
+    ],
+    "Requirements Summary": [
+      "use-cases",
+      "stakeholder-analysis",
+      "requirements"
+    ],
+    "High-Level Design": [
+      "layered-view",
+      "system-interface",
+      "system-architecture",
+      "database-design",
+      "api-design",
+      "requirement-traceability-matrix"
+    ],
+    "Design Rationale": [
+      "system-architecture-rationale",
+      "conclusion"
+    ],
+    "Full Text": [
+      "full-text"
+    ]
+  }
+}
