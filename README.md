@@ -1,4 +1,4 @@
-# CS5744-01-RideVT-Design
+# CS5744-01-HokieRide-Design
 
 ## Project Setup
 
